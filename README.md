@@ -24,6 +24,3 @@ pip install -e ".[dev]"
 ```bash
 python -m particle_studio
 ```
-
-## Mimari
-Ayrıntılı kararlar ve yol haritası için `docs/GENEL_PLANLAMA_README.md` dosyasına bakın.
